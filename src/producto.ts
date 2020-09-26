@@ -1,6 +1,6 @@
 export  interface  Producto{
     gtin : string;
-    nombre: string; 
+    nombre: string;  
     
     
 }
